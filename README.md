@@ -161,7 +161,9 @@ Sources of inspiration:
 Related project:
 
 https://github.com/kaminovs/crepair
+DOI: 10.5281/zenodo.20283434
 
 Project author:
 
-Sergey Kaminov
+Sergejs Kaminovs
+ORCID: 0009-0004-1711-3455
